@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a junior web developer who attends to le wagon Bootcamp a is looking to work on exciting projects.
-
+I am a junior web developer who attended Le Wagon bootcamp and is looking to continue learning and working on interesting projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Edgar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Edgar) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Edgar) 
